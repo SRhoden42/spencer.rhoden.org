@@ -9,7 +9,7 @@
 5. Congratulate yourself on not being a full dummy cuz you wrote it down :)
 
 
-##If you forget the ssh command to run the git pull##
+## If you forget the ssh command to run the git pull ##
 
 ssh spencer0@rhodentech.com 'node /var/www/spencer_rhoden_org/WebShoota.js'
 
